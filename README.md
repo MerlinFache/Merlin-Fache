@@ -9,7 +9,7 @@ Je m'appelle Merlin Fache, j'ai 17 ans et je viens d'Île-de-France. Actuellemen
 
 ## Projets
 
-Voici une liste des projets présentés sur ce portfolio :
+Voici une liste de mes projets :
 
 1. **TicTacToe**  
    Un projet simple sur le jeu du Morpion (TicTacToe). Ce projet a été réalisé en utilisant [technologie utilisée] et il est disponible sur GitHub.
