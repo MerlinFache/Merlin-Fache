@@ -26,16 +26,4 @@ Voici une liste des projets présentés sur ce portfolio :
    Un site dédié à des joueurs de l'équipe de France, mettant en avant mes compétences en HTML, CSS et JavaScript.
    - **Lien vers le projet** : [FanSite sur GitHub](https://github.com/MerlinFache/Projet-FanSite)
 
-## Installation
 
-Si vous souhaitez visualiser ou utiliser ce portfolio sur votre propre machine, voici les étapes à suivre :
-
-### Prérequis
-
-- Un navigateur web moderne (Chrome, Firefox, etc.)
-- Git pour cloner le repository
-
-### Clonez ce repository
-
-```bash
-git clone https://github.com/MerlinFache/mon-portfolio.git
