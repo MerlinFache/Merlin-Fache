@@ -4,7 +4,7 @@ Bienvenue sur le portfolio de Merlin Fache, un développeur apprenti en informat
 
 ## Présentation
 
-Je m'appelle Merlin Fache, j'ai 17 ans et je viens d'Île-de-France. Actuellement, je suis apprenti en informatique au sein de [La Plateforme](https://www.laplateforme.io). J'ai conçu cette biographie pour mettre en valeur mes projets de développement et partager mon parcours avec des employeurs potentiels ou toute personne intéressée par mon travail.
+Je m'appelle Merlin Fache, je viens d'Île-de-France. Actuellement, je suis apprenti en informatique au sein de [La Plateforme](https://www.laplateforme.io). J'ai conçu cette biographie pour mettre en valeur mes projets de développement et partager mon parcours avec des employeurs potentiels ou toute personne intéressée par mon travail.
 
 
 ## Projets
